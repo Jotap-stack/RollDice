@@ -11,7 +11,7 @@ Esse projeto implementa um minigame que simula o lançamento de um dado de seis 
 - **JavaScript**: lógica do jogo (gerar número aleatório, atualizar interface).
 
 ##  Demonstração
-> _Adicione aqui uma captura de tela (print) do jogo em funcionamento._
+> 
 >
 > ![Screenshot do jogo rodando](./assets/printgame.jpeg)
 
